@@ -1,0 +1,2 @@
+# danoai
+to learn AI 
